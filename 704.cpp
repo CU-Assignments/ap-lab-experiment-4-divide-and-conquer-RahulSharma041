@@ -24,3 +24,16 @@ public:
         
     }
 };
+
+
+
+Case 1 :- nums = [-1,0,3,5,9,12]
+Target :- 9
+
+Output :- 4
+
+Case 2:- nums = [-1,0,3,5,9,12]
+Target :- 2
+
+Output :- -1
+
